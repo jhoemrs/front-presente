@@ -1,164 +1,255 @@
 [{
         "id": 0,
-        "cita": "O amor só é lindo, quando encontramos alguém que nos transforme no melhor que podemos ser. - Mário Quintana"
+        "cita": "O amor só é lindo, quando encontramos alguém que nos transforme no melhor que podemos ser.",
+        "autor":"Mário Quintana"
       },
       {
         "id": 1,
-        "cita": "Aprenda, quando uma pessoa te ama de verdade ela não desiste de você. Mas também não abuse viu!"
+        "cita": "Aprenda, quando uma pessoa te ama de verdade ela não desiste de você. Mas também não abuse viu!",
+        "autor":"Jhonatan Mark"
       },
        {
         "id": 2,
-        "cita": "Jéssica, você nunca será boa o suficiente para todos, mas será sempre perfeita para mim."
+        "cita": "Jéssica, você nunca será boa o suficiente para todos, mas será sempre perfeita para mim.",
+        "autor":"Jhonatan Mark"
       },
        {
         "id": 3,
-        "cita": "É bom ser seu porto seguro, sou feliz em te acalmar, renovar e te dar força pra continuar"
+        "cita": "É bom ser seu porto seguro, sou feliz em te acalmar, renovar e te dar força pra continuar",
+        "autor":"Jhonatan Mark"
       },
        {
         "id": 4,
-        "cita": "Um dos momentos mais lindo de nossas vidas, jamais será esquecido, emocionar-mos com a mais simples declaração de amor."
+        "cita": "Um dos momentos mais lindo de nossas vidas, jamais será esquecido, emocionar-mos com a mais simples declaração de amor.",
+        "autor":"Jhonatan Mark"
       },
        {
         "id": 5,
-        "cita": "Jéssica, você me faz seguir em frente. Todos os dias. Confie em nós."
+        "cita": "Jéssica, você me faz seguir em frente. Todos os dias. Confie em nós.",
+        "autor":"Jhonatan Mark"
       },
        {
         "id": 6,
-        "cita": "Não há nada no mundo, que a nossa força de vontade não vá alcançar, só precisamos de 3 coisas: Tempo, Paciência e Dedicação. Já sabemos que não é fácil né amor?!"
+        "cita": "Não há nada no mundo, que a nossa força de vontade não vá alcançar, só precisamos de 3 coisas: Tempo, Paciência e Dedicação. Já sabemos que não é fácil né amor?!",
+        "autor":"Jhonatan Mark"
       },
        {
         "id": 7,
-        "cita": "Bom, eu já parei pra pensar em cada coisa... e pior é você, que pensa o tempo todo e nunca para! rsrsrs"
+        "cita": "Bom, eu já parei pra pensar em cada coisa... e pior é você, que pensa o tempo todo e nunca para! rsrsrs",
+        "autor":"Jhonatan Mark"
       },
        {
         "id": 8,
-        "cita": "É díficil acreditar que vivi tanto tempo da minha vida sem você... Seria tudo mais fácil, porque a força de vontade que você me faz ter para evoluir é indescritivel."
+        "cita": "É díficil acreditar que vivi tanto tempo da minha vida sem você... Seria tudo mais fácil, porque a força de vontade que você me faz ter para evoluir é indescritivel.",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 9,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 10,
-        "cita": "O amor é a única loucura de um sábio e a única sabedoria de um tolo - William Shakespeare"
+        "cita": "O amor é a única loucura de um sábio e a única sabedoria de um tolo",
+        "autor":"William Shakespeare"
       },
       {
         "id": 11,
-        "cita": "Com você sempre me sinto mais seguro, é como se eu tivesse um segundo cérebro para me ajudar a pensar! Menininha prodigio s2 !"
+        "cita": "Com você sempre me sinto mais seguro, é como se eu tivesse um segundo cérebro para me ajudar a pensar! Menininha prodigio s2 !",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 12,
-        "cita": "Eu enfrento tudo e todos com 1 mão só, se você me prometer que assim como o primeiro dia que nos encontramos, você estiver segurando a outra !"
+        "cita": "Eu enfrento tudo e todos com 1 mão só, se você me prometer que assim como o primeiro dia que nos encontramos, você estiver segurando a outra !",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 13,
-        "cita": "Eu acho que as almas devem ser feitas em pares...Bom, tá na cara que você pegou a parte mais agitada!"
+        "cita": "Eu acho que as almas devem ser feitas em pares...Bom, tá na cara que você pegou a parte mais agitada!",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 14,
-        "cita": "Eu amo sorrir, mas é muito díficil me tirar risadas, exceto você, você tem esta incrível habilidade de me fazer sorrir, logo Eu amo te amar."
+        "cita": "Eu amo sorrir, mas é muito díficil me tirar risadas, exceto você, você tem esta incrível habilidade de me fazer sorrir, logo Eu amo te amar.",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 15,
-        "cita": "Eu te amo não só pelo que você é, mas pelo que você me transforma, e o que me faz sentir."
+        "cita": "Eu te amo não só pelo que você é, mas pelo que você me transforma, e o que me faz sentir.",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 16,
-        "cita": "Amo o jeito que você cuida de mim, o que você não puder arrumar na minha vida, ninguém pode."
+        "cita": "Amo o jeito que você cuida de mim, o que você não puder arrumar na minha vida, ninguém pode.",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 17,
-        "cita": "Queria hoje você do meu lado, e se eu estiver, queria mesmo era um abraço apertado."
+        "cita": "Queria hoje você do meu lado, e se eu estiver, queria mesmo era um abraço apertado.",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 18,
-        "cita": "A vida as vezes fica bem bagunçada, você precisa aprender quem nem sempre poderá consertá-la, mas qualquer coisa to aí pra ajudar!"
+        "cita": "A vida as vezes fica bem bagunçada, você precisa aprender quem nem sempre poderá consertá-la, mas qualquer coisa to aí pra ajudar!",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 19,
-        "cita": "Alegria é uma escolha pra minha vida, que condicionei a você."
+        "cita": "Alegria é uma escolha pra minha vida, que condicionei a você.",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 20,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Enfrento até os borrachudos da sua casa por você! :D ",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 21,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Os que amam profundamente, jamais envelhecem; podem morrer de velhice, mas morrem jovens.",
+        "autor":"Lutero"
       },
       {
         "id": 22,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Eu te amo para amar-te e não para ser amado,pois nada me dá tanta felicidade como te ver feliz. Mas ser amado em troca é o melhor bônus do mundo que já não me imagino sem!",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 23,
-        "cita": "Citação 23: P.S.: Eu te amo!"
+        "cita": "Citação 23: P.S.: Eu te amo!",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 24,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Da vida, não quero muito. Quero apenas saber que tentei tudo o que quis. Tive tudo o que pude. Amei tudo o que valia. E perdi apenas o que, no fundo, nunca foi meu.",
+        "autor":"Autor Desconhecido"
       },
       {
         "id": 25,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Como fica forte uma pessoa quando está segura de ser amada!",
+        "autor":"Sigmund Freud"
       },
       {
         "id": 26,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Ser profundamente amado por alguém nos dá força; amar alguém profundamente nos dá coragem.",
+        "autor":"Lao-Tsé"
       },
       {
         "id": 27,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "É preciso sofrer depois de ter sofrido, e amar, e mais amar, depois de ter amado.",
+        "autor":"Guimarães Rosa"
       },
       {
         "id": 28,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "A consciência de amar e ser amado traz um conforto e riqueza à vida que nada mais consegue trazer.",
+        "autor":"Oscar Wilde"
       },
       {
         "id": 29,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Vós, que sofreis, porque amais, amai ainda mais. Morrer de amor é viver dele.",
+        "autor":"Victor Hugo"
       },
       {
         "id": 30,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Nada é pequeno no amor. Quem espera as grandes ocasiões para provar a sua ternura não sabe amar.",
+        "autor":"Laure Conan"
       },
       {
         "id": 31,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Amar não é olhar um para o outro, é olhar juntos na mesma direção.",
+        "autor":"Antoine de Saint-Exupéry"
       },
       {
         "id": 32,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "É fácil amar os que estão longe. Mas nem sempre é fácil amar os que vivem ao nosso lado.",
+        "autor":"Madre Teresa de Calcutá"
       },
       {
         "id": 33,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Amar é ultrapassarmo-nos.",
+        "autor":"Oscar Wilde"
       },
       {
         "id": 34,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Amar é metade de crer.",
+        "autor":"Victor Hugo"
       },
       {
         "id": 35,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Bom, eu posso dizer de coração que amo meu semelhante!",
+        "autor":"Jhonatan Mark"
       },
       {
         "id": 36,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Tarde demais a conheci, por fim; Cedo demais, sem conhecê-la, amei-a profundamente.",
+        "autor":"William Shakespeare"
       },
       {
         "id": 37,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "E que a minha loucura seja perdoada. Porque metade de mim é amor e a outra metade também.",
+        "autor":"Oswaldo Montenegro"
       },
       {
         "id": 38,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Ame profunda e passionalmente. Você pode se machucar, mas é a única forma de viver o amor completamente.",
+        "autor":"Dalai Lama"
       },
       {
         "id": 39,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
+        "cita": "Tu te tornas eternamente responsável por aquilo que cativas.",
+        "autor":"Antoine de Saint-Exupéry"
       },
       {
         "id": 40,
-        "cita": "Sempre me conte o que se passa no seu coração, sério, SEMPRE !"
-}]
+        "cita": "O essencial é invisível aos olhos ,e só se pode ver com o coração",
+        "autor":"Antoine de Saint-Exupéry"
+      },
+      {
+        "id": 41,
+        "cita": "O verdadeiro amor nunca se desgasta. Quanto mais se dá mais se tem.",
+        "autor":"Antoine de Saint-Exupéry"
+      },
+       {
+        "id": 42,
+        "cita": "O que nos salva é dar um passo e outro ainda.",
+        "autor":"Antoine de Saint-Exupéry"
+      },
+       {
+        "id": 43,
+        "cita": "Foi o tempo que dedicaste à tua rosa que a fez tão importante",
+        "autor":"Antoine de Saint-Exupéry"
+      },
+       {
+        "id": 44,
+        "cita": "Ele era para mim como uma fonte no deserto",
+        "autor":"Antoine de Saint-Exupéry"
+      },
+       {
+        "id": 45,
+        "cita": "As estrelas são belas por causa de uma flor que não se pode ver...",
+        "autor":"Antoine de Saint-Exupéry"
+      },
+       {
+        "id": 46,
+        "cita": "Quando você dá de si mesmo, você recebe mais do que dá.",
+        "autor":"Antoine de Saint-Exupéry"
+      },
+       {
+        "id": 47,
+        "cita": "Serás para mim único no mundo e eu serei para ti única no mundo.",
+        "autor":"Antoine de Saint-Exupéry"
+      },
+       {
+        "id": 48,
+        "cita": "Acho que vou precisar de uma vida inteira pra te entender, sorte sua que tenho este tempo!",
+        "autor":"Jhonatan Mark"
+      },
+       {
+        "id": 49,
+        "cita": "Você é o sinônimo da minha felicidade.",
+        "autor":"Jhonatan Mark"
+      },
+       {
+        "id": 50,
+        "cita": "Preparar o futuro significa fundamentar o presente.",
+        "autor":"Antoine de Saint-Exupéry"
+ }]

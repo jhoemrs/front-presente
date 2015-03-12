@@ -1,21 +1,21 @@
 $(document).ready(function ()  {
     
-    var number = Math.floor(Math.random() * 51);
+    var number = Math.floor(Math.random() * 23);
     
     $.ajax({
     type: 'GET',
-    url: "/../pages/citacoes/mensagens.json",
+    url: "/../pages/desafio/desafiando.json",
     dataType: 'json',
     contentType: 'application/json',
     crossDomain: true,
     cache:false,
     success: function(data) 
     {
-        $.each(data, function(i, citacao) {
-            item = "<center><h4>" + citacao.cita + "</h4></center>"+ "<br />" + "<right><h6>"+ citacao.autor + "</h6></right>"
+        $.each(data, function(i, desafio) {
+            item = "<center><h4>" + desafio.meta + "</h4></center>";
 
-            if (citacao.id == number) {
-                $('#boxcita').append(item);
+            if (desafio.id == number) {
+                $('#blocodesafio').append(item);
             }
         });
     },
